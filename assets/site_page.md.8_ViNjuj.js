@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.CpRp-8GK.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"site/page.md","filePath":"site/page.md"}'),s={name:"site/page.md"};function r(o,c,n,p,i,_){return a(),t("div")}const f=e(s,[["render",r]]);export{m as __pageData,f as default};
